@@ -1,8 +1,9 @@
 ## **Description**
 
 
-**Machine learning applied to FOREX mean reversion automated trading strategy.**(https://github.com/pcaspa/FOREX-Algorithmic-Trading)
+**Machine learning applied to FOREX mean reversion automated trading strategy.**
 
+For further details, visit the project repository on [GitHub](https://github.com/pcaspa/FOREX-Algorithmic-Trading).
 ---
 
 ### **Objective**
