@@ -1,4 +1,4 @@
-# **FOREX Algorithic Trading**
+
 
 ## **Description**
 **Machine learning applied to FOREX mean reversion automated trading strategy.**
